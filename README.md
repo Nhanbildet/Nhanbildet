@@ -1,19 +1,22 @@
-## 👋 Bonjour, je suis Nhan
+## 👋 Bonjour, je suis Nhan 
 
-Data Analyst spécialisée en Business Intelligence, avec une forte orientation métier et une expérience en marketing et en analyse de données.
+Data Analyst spécialisée en Business Intelligence, avec plus de 10 ans d’expérience en marketing et business.
 
-Plus de 10 ans d’expérience en marketing et business, avec une approche orientée data pour améliorer la performance et la prise de décision.
+Je travaille avec SQL, Python, Power BI et Microsoft Fabric pour analyser des données, construire des KPI et créer des dashboards pour la prise de décision.
 
-Je travaille avec SQL, Python, Power BI et Microsoft Fabric pour construire des pipelines de données, modéliser les données (schéma en étoile) et créer des dashboards pour le pilotage des KPI.
+Je développe également des pipelines de données dans Microsoft Fabric (Lakehouse, Dataflows) pour structurer et exploiter les données efficacement.
 
-Je m’intéresse particulièrement aux domaines de la finance, du risque et de la fintech, où la data et l’architecture moderne (Fabric, Lakehouse) jouent un rôle clé dans l’analyse et la performance.
+🎯 Spécialisation :
+- Analyse du risque et performance business
+- Business Intelligence & KPI
+- Data pipeline (Microsoft Fabric)
 
-🔎 Cetification : Bachelor - Data Analyst ( Wild Code School _ Bordeaux); Data Analyst Associate Power BI PL-300 ( Microsoft)
- 
-📊 Environnements sectoriels: Assurance,finance Retail, E-commerce, Marketing digital, Voyage
+🏢 Domaines :
+Banque, assurance, e-commerce, marketing digital
 
 🎯 Objectif :
-Mettre la data et les outils modernes comme Microsoft Fabric au service de la prise de décision et créer de la valeur pour les équipes métiers.
+Utiliser la data et Microsoft Fabric pour améliorer la performance et aider à la prise de décision.
 
-📫 Me contacter :
-- LinkedIn : https://linkedin.com/in/nhanbildet
+📫 LinkedIn :
+https://linkedin.com/in/nhanbildet
+
