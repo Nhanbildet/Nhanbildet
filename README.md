@@ -6,10 +6,7 @@ Je travaille avec SQL, Python, Power BI et Microsoft Fabric pour analyser des do
 
 Je développe également des pipelines de données dans Microsoft Fabric (Lakehouse, Dataflows) pour structurer et exploiter les données efficacement.
 
-🎯 Spécialisation :
-- Analyse du risque et performance business
-- Business Intelligence & KPI
-- Data pipeline (Microsoft Fabric)
+🎯 Spécialisation : Analyse du risque et performance business | Business Intelligence & KPI | Data pipeline (Microsoft Fabric)
 
 🏢 Domaines :
 Banque, assurance, e-commerce, marketing digital
