@@ -8,17 +8,9 @@ Je travaille avec SQL, Python, Power BI et Microsoft Fabric pour construire des 
 
 Je m’intéresse particulièrement aux domaines de la finance, du risque et de la fintech, où la data et l’architecture moderne (Fabric, Lakehouse) jouent un rôle clé dans l’analyse et la performance.
 
-🔎 Mes compétences :
-- Data Analysis (SQL, Python)
-- Business Intelligence (Power BI)
-- Microsoft Fabric (Lakehouse, Dataflows, Pipeline)
-- Data modelling (schéma en étoile)
-- Analyse du risque
-
-📊 Mes projets principaux :
-- Credit Risk Analysis (analyse du risque de crédit avec Microsoft Fabric)
-- Airbnb Investment Analysis (analyse de rentabilité avec pipeline data)
-- Michelin Recommendation App (application avec IA)
+🔎 Cetification : Bachelor - Data Analyst ( Wild Code School _ Bordeaux); Data Analyst Associate Power BI PL-300 ( Microsoft)
+ 
+📊 Environnements sectoriels: Assurance,finance Retail, E-commerce, Marketing digital, Voyage
 
 🎯 Objectif :
 Mettre la data et les outils modernes comme Microsoft Fabric au service de la prise de décision et créer de la valeur pour les équipes métiers.
